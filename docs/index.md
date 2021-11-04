@@ -42,32 +42,41 @@ To cite our paper:
 
 ## Concept 
 **The concept of humanoid rollover motion: (a) Initial condition, (b) and (c) falling phase, (d) contact phase, (e) rollover phase, and (f) fallen phase. Blue and green represent left and right limbs, respectively.**
+
 ![Concept](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/2.gif)
 
 ## Simulation Results
 **Initial condition of fall.**
+
 ![Simulation_joint_position](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/3.gif)
 
 **Benchmark results for simulated joint positions in rollover fall for (a) upper and (b) lower extremity.**
+
 ![Simulation_joint_position](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/4.gif)
 
 **Benchmark simulation results for com trajectory in (a) bimanual and (b) rollover fall.**
+
 ![Simulation_CoM](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/5.gif)
 
 **Benchmark simulation timeline snapshots for rollover optimization.**
+
 ![Simulation_timeline](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/6.gif)
 
 **Benchmark simulation result for both bimanual and rollover strategies, starting at the same time for (a) impact force, (b) total mechanical energy.**
+
 ![Simulation_result](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/7.gif)
 
 ## Experiment
 **(a) A humanoid with encoder-equipped motors mounted on each joint and inertial measurement unit (imu) mounted on its torso, and (b) the forward fall test bed produced by the DDP method.**
+
 ![Experiment_setup](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/8.gif)
 
 **Experimental results for bimanual and rollover fall: (a) Impact force measured by a force sensor and (b) linear acceleration of torso during the experiment as measured by the imu. The measurements for the bimanual and rollover experiments are aligned at their contact time.**
+
 ![Experiment_result](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/9.gif)
 
 **Timeline snapshots for a rollover experiment.**
+
 ![Experiment_result](https://github.com/nyu-legged-group/Rollover/blob/main/docs/figs/10.gif)
 
 ## Acknowledgment
