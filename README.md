@@ -2,7 +2,9 @@
 
 [**Dongdong Liu**](http://mechatronics.engineering.nyu.edu/people/phd-candidates/dongdong-liu.php),  [**Yuhang Lin**](), [**Vikram Kapila**](http://mechatronics.engineering.nyu.edu/people/vikram-kapila)
 
-![Overview](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/1.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/1.png"/>
+</div>
 
 |[Abstract](#abstract)|[Code](#code-github)|[Paper](#paper)|[Concept](#concept)|[Simulation](#simulation-results)|[Experiment](#experiment)|[Acknowledgment](#acknowledgment)|
 
@@ -43,41 +45,61 @@ To cite our paper:
 ## Concept 
 **The concept of humanoid rollover motion: (a) Initial condition, (b) and (c) falling phase, (d) contact phase, (e) rollover phase, and (f) fallen phase. Blue and green represent left and right limbs, respectively.**
 
-![Concept](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/2.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/2.png"/>
+</div>
 
 ## Simulation Results
 **Initial condition of fall.**
 
-![Simulation_joint_position](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/3.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/3.png"/>
+</div>
 
 **Benchmark results for simulated joint positions in rollover fall for (a) upper and (b) lower extremity.**
 
-![Simulation_joint_position](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/4.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/4.png"/>
+</div>
 
 **Benchmark simulation results for com trajectory in (a) bimanual and (b) rollover fall.**
 
-![Simulation_CoM](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/5.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/5.png"/>
+</div>
 
 **Benchmark simulation timeline snapshots for rollover optimization.**
 
-![Simulation_timeline](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/6.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/6.png"/>
+</div>
 
 **Benchmark simulation result for both bimanual and rollover strategies, starting at the same time for (a) impact force, (b) total mechanical energy.**
 
-![Simulation_result](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/7.png)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/7.png"/>
+</div>
 
 ## Experiment
 **(a) A humanoid with encoder-equipped motors mounted on each joint and inertial measurement unit (imu) mounted on its torso, and (b) the forward fall test bed produced by the DDP method.**
 
-![Experiment_setup](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/8.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/8.png"/>
+</div>
 
 **Experimental results for bimanual and rollover fall: (a) Impact force measured by a force sensor and (b) linear acceleration of torso during the experiment as measured by the imu. The measurements for the bimanual and rollover experiments are aligned at their contact time.**
 
-![Experiment_result](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/9.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/9.png"/>
+</div>
 
 **Timeline snapshots for a rollover experiment.**
 
-![Experiment_result](https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/10.png)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/10.png"/>
+</div>
 
 ## Acknowledgment
  The research is supported in part by the National Science Foundation under an ITEST grant DRL-1614085, RET Site grant EEC-1542286, and DRK-12 grant DRL-1417769. D. Liu thanks his lab colleagues, particularly P. Chauhan, for helping edit the early drafts of manuscript.
