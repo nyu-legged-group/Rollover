@@ -3,6 +3,10 @@
 [**Dongdong Liu**](http://mechatronics.engineering.nyu.edu/people/phd-candidates/dongdong-liu.php),  [**Yuhang Lin**](), [**Vikram Kapila**](http://mechatronics.engineering.nyu.edu/people/vikram-kapila)
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/featured.gif"/>
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/1.png"/>
 </div>
 
