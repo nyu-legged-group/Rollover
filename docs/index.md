@@ -6,9 +6,9 @@
 <img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/featured.gif"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/nyu-legged-group/Rollover/main/docs/figs/1.png"/>
-</div>
+</div> -->
 
 |[Abstract](#abstract)|[Code](#code-github)|[Paper](#paper)|[Concept](#concept)|[Simulation](#simulation-results)|[Experiment](#experiment)|[Acknowledgment](#acknowledgment)|
 
